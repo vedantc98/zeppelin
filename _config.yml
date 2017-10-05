@@ -55,8 +55,6 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "IIT GUWAHATI MUN"
 eventDate: "SPRING EDITION'18"
-typeoutTextValues: '""'
-typeoutFallback: "Season"
 
 # About Block
 aboutTitle: "LETTER FROM THE SECRETARY GENERAL"
@@ -67,10 +65,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "300", specialCharacter: "+", info: "Applications", detail: "from all over India"}
+ - {count: "130", specialCharacter: "+", info: "Delegates", detail: "overall"}
+ - {count: "8+", specialCharacter: "+", info: "International Press", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
