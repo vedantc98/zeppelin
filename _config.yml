@@ -56,6 +56,8 @@ heroImage: "hero.jpg"
 heroTitle: "IIT GUWAHATI MUN <typeout>"
 eventDate: "SPRING EDITION'18"
 typeoutFallback: ""
+heroButtons:
+ - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
 
 # About Block
 aboutTitle: "LETTER FROM THE SECRETARY GENERAL"
