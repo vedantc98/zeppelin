@@ -53,8 +53,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "IIT GUWAHATI MUN"
+heroTitle: "IIT GUWAHATI MUN <typeout>"
 eventDate: "SPRING EDITION'18"
+typeoutFallback: ""
 
 # About Block
 aboutTitle: "LETTER FROM THE SECRETARY GENERAL"
@@ -67,7 +68,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "Applications", detail: "from all over India"}
  - {count: "130", specialCharacter: "+", info: "Delegates", detail: "overall"}
- - {count: "8+", specialCharacter: "+", info: "International Press", detail: "from country and beyond"}
+ - {count: "8", specialCharacter: "+", info: "International Press", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -75,8 +76,8 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Executive Board"
+rockstarSpeakersButtonText: "See all members"
 
 # Location Block
 locationBlockTitle: "Location"
