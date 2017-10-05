@@ -57,12 +57,10 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "main_bg.jpg"
 heroTitle: "IIT GUWAHATI MUN <typeout>"
-eventDate: "February, 2018"
+eventDate: "SPRING EDITION'18"
 typeoutTextValues: '"2014", "2015", "2016", "2017", "2018"'
 typeoutFallback: "Season"
-heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+
 
 # About Block
 aboutTitle: "About GDG DevFest"
