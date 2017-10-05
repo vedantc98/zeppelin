@@ -71,7 +71,11 @@ statisticBlock:
  - {count: "8", specialCharacter: "+", info: "International Press", detail: "from country and beyond"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "COUNCILS"
+latestNewsBlock:
+- {title:"UNSC", image:"conference.jpg", text:""}
+- {title:"UNHRC", image:"conference.jpg", text:""}
+- {title:"ECOSOC", image:"conference.jpg", text:""}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"

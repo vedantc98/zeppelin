@@ -1,29 +1,25 @@
 <!-- Begin Latest News Section -->
-<link rel = "stylesheet" type = "text/css" href = "latest_style.css">
 <section id="latest-news" class="latest-news">
 	<div class="content-wrapper">
-		<div id = "council-header">
-			<h3>COUNCILS</h3>
-			<br>
-			<div class="flex-container">
-  				<div class="flex-item">flex item 1</div>
- 				<div class="flex-item">flex item 2</div>
- 				<div class="flex-item">flex item 3</div>  
-			</div>
-		</div>
-		<!--<div class="col-lg-10 col-lg-offset-1">
-			<h3>{{ site.latestNewsTitle }}</h3>
-			<article class="row">
-				{% for post in site.posts limit:2 %}
-                    {% assign postUrl = site.baseurl | append: post.url %} 
-					<div class="post col-md-6 col-sm-6 text-left animated hiding" data-animation="fadeInDown" data-delay="500">
-						<h6>{{ post.title }}</h6>
-						<p class="post-body">{{ post.content | strip_html | truncate: 250 }} <a href="{{ postUrl }}">continue reading</a></p>
-					</div>
+        <div class="col-lg-10 col-lg-offset-1">
+            <h4>{{ site.latestNewsTitle }}</h4>
+            <div class="row about-details">
+                {% assign animationDelay = 0 %}
+                {% for about in site.latestNewsBlock %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-6">  
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <h5>{{ about.title }}</h5>
+                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
+                        <p>{{ about.text }}</p>
+                    </div>
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% assign check = forloop.index | modulo:2 %}
+                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
                 {% endfor %}
-			</article>
-		</div> 
-		-->
-	</div>
+            </div>
+        </div>
+    </div>
 </section>
 <!-- End Latest News Section -->
