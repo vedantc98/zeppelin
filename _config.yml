@@ -53,7 +53,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "main_bg.jpg"
-heroTitle: "IIT GUWAHATI MUN <typeout>"
+heroTitle: "IIT GUWAHATI MUN"
 eventDate: "SPRING EDITION'18"
 typeoutTextValues: '"2014", "2015", "2016", "2017", "2018"'
 typeoutFallback: "Season"
