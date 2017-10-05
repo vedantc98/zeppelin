@@ -105,8 +105,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Indian Institute of Technology"
+venueFeatures: ["Guwahati", "Conference Hall", "Located next to Auditorium"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
