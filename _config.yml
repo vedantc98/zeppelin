@@ -273,6 +273,6 @@ hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
 #Sponsors block
 sponsorsTitle: "SPONSORS"
 sponsorsList:
- - {title: "mun_planet", image:"mun_planet_logo.png"}
- - {title: "mun_turkey", image:"mun_turkey_logo.png"}
- - {title: "techfest_world_mun", image:"techfest_world_mun_logo.png"}
+ - {title: "mun_planet", image: "mun_planet_logo.png"}
+ - {title: "mun_turkey", image: "mun_turkey_logo.png"}
+ - {title: "techfest_world_mun", image: "techfest_world_mun_logo.png"}
