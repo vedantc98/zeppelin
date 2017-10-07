@@ -74,9 +74,9 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle: "COUNCILS"
 latestNewsBlock:
- - {title: "UNSC", image: "conference.jpg", text: "Lorem ipsum"}
- - {title: "UNSC", image: "conference.jpg", text: "Lorem ipsum"}
- - {title: "UNSC", image: "conference.jpg", text: "Lorem ipsum"}
+ - {title: "UNSC", image: "unsc_logo.jpg", text: ""}
+ - {title: "UNHRC", image: "unhrc_logo.png", text: ""}
+ - {title: "ECOSOC", image: "ecosoc_logo.jpg", text: ""}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
