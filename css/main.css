@@ -1693,6 +1693,7 @@ time {
 .content-wrapper {
     position: relative;
     z-index: 1;
+    top: 0px;
     height: 100%}
 .bordered {
     display: inline-block;
@@ -2065,6 +2066,7 @@ nav li a.current,nav li a:hover {
     color: #fff;
     background: 0}
 .about-details img {
+    height: 300px;
     width: 128px}
 .about-details p {
     margin-top: 10px}
