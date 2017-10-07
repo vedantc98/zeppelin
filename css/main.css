@@ -991,7 +991,7 @@ tbody.collapse.in {
 .jumbotron p {
     margin-bottom: 15px;
     font-size: 36px;
-    font-weight: 600}
+    font-weight: 400}
 .jumbotron>hr {
     border-top-color: #d5d5d5}
 .container .jumbotron,.container-fluid .jumbotron {
@@ -1911,6 +1911,7 @@ nav ul {
     padding: 0;
     list-style: none;
     text-align: left;
+    font-sixe: 20px;
     -webkit-transform: translateY(40px);
     -ms-transform: translateY(40px);
     transform: translateY(40px);
@@ -3538,7 +3539,7 @@ input[type="date"].input-lg,.input-group-lg input[type="date"],input[type="time"
     padding-right: 60px}
 .jumbotron h1,.jumbotron .h1 {
     font-size: 72px
-    font-style: medium`}
+    font-weight: 500}
 .jumbotron {
     padding-bottom: 0}
 }
