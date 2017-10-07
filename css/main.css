@@ -991,7 +991,7 @@ tbody.collapse.in {
 .jumbotron p {
     margin-bottom: 15px;
     font-size: 36px;
-    font-weight: 300}
+    font-weight: 600}
 .jumbotron>hr {
     border-top-color: #d5d5d5}
 .container .jumbotron,.container-fluid .jumbotron {
@@ -1987,8 +1987,8 @@ nav li a.current,nav li a:hover {
     -ms-transform: translateY(-60%);
     transform: translateY(-60%)}
 .top-section-hero .jumbotron p {
-    font-size: 40px;
-    font-weight: 200;
+    font-size: 36px;
+    font-weight: 400;
     margin-bottom: 15px}
 .top-section-hero .jumbotron .btn {
     margin: 0 3px}
