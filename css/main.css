@@ -3931,3 +3931,8 @@ th.visible-md,td.visible-md {
 .hidden-md {
     display: none !important}
 }
+
+.letter-left {
+    float:left;
+    
+}
