@@ -6,7 +6,7 @@
             <div class = "letter-layout">
                     <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
             </div>
-            <div class="row about-details">
+            <div class="row about-details letter-layout">
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
