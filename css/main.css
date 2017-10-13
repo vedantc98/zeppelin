@@ -3952,14 +3952,10 @@ th.visible-md,td.visible-md {
 
 .h-flex-img {
     height: 100%;
-    width: 20%;
-    padding-left: 5%;
-    padding-right: 5%;
+    flex-grow: 1;
 }
 
 .h-flex-content {
-    width: 60%;
     height: 100%;
-    padding-left: 5%;
-    padding-right: 5%;
+    flex-grow: 2;
 }
