@@ -3945,3 +3945,11 @@ th.visible-md,td.visible-md {
     display: flex;
     flex-direction: column;
 }
+
+.v-flex-item {
+
+}
+
+.h-flex-item {
+    
+}
