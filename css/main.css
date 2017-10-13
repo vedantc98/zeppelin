@@ -3947,18 +3947,18 @@ th.visible-md,td.visible-md {
 }
 
 .v-flex-item {
-
+    text-align: justify;
 }
 
 .h-flex-img {
     height: 100%;
-    width: 25%;
-    padding-left: 50px;
-    padding-right: 50px;
+    width: 20%;
+    padding-left: 5%;
+    padding-right: 10%;
 }
 
 .h-flex-content {
-    width: 75%;
+    width: 70%;
     height: 100%;
-    padding-right: 50px;
+    padding-right: 5%;
 }
