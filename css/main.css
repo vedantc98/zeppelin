@@ -3953,9 +3953,13 @@ th.visible-md,td.visible-md {
 .h-flex-img {
     height: 100%;
     flex-grow: 1;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .h-flex-content {
     height: 100%;
     flex-grow: 2;
+    padding-right: 5%;
+    padding-left: 5%;
 }
