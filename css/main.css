@@ -3954,11 +3954,12 @@ th.visible-md,td.visible-md {
     height: 100%;
     width: 20%;
     padding-left: 5%;
-    padding-right: 10%;
+    padding-right: 5%;
 }
 
 .h-flex-content {
     width: 60%;
     height: 100%;
+    padding-left: 5%;
     padding-right: 5%;
 }
