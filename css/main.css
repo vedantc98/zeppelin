@@ -3953,4 +3953,12 @@ th.visible-md,td.visible-md {
 .h-flex-img {
     height: 100%;
     width: 25%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.h-flex-content {
+    width: 75%;
+    height: 100%;
+    padding-right: 50px;
 }
