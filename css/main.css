@@ -3938,7 +3938,7 @@ th.visible-md,td.visible-md {
 
 .horizontal-flex {
     display: flex;
-    flex-direction: row;
+    flex-direction: row wrap;
 }
 
 .vertical-flex {
