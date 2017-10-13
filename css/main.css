@@ -3938,7 +3938,7 @@ th.visible-md,td.visible-md {
 
 .horizontal-flex {
     display: flex;
-    flex-direction: row;
+    flex-direction: row wrap;
 }
 
 .vertical-flex {
@@ -3952,14 +3952,14 @@ th.visible-md,td.visible-md {
 
 .h-flex-img {
     height: 100%;
-    width: 20%;
+    flex-grow: 1;
     padding-left: 5%;
     padding-right: 5%;
 }
 
 .h-flex-content {
-    width: 60%;
     height: 100%;
-    padding-left: 5%;
+    flex-grow: 2;
     padding-right: 5%;
+    padding-left: 5%;
 }
