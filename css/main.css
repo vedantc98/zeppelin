@@ -3950,6 +3950,7 @@ th.visible-md,td.visible-md {
 
 }
 
-.h-flex-item {
-    
+.h-flex-img {
+    height: 100%;
+    width: 25%;
 }
