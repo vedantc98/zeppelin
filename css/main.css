@@ -3963,3 +3963,7 @@ th.visible-md,td.visible-md {
     padding-right: 5%;
     padding-left: 5%;
 }
+
+#reviews-section {
+    max-height: 1300px;
+}
