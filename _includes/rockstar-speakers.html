@@ -1,4 +1,4 @@
-<section id="reviews-section" class="about" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.reviewsBackgroundImage }});">
+<!-- <section id="reviews-section" class="about" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.reviewsBackgroundImage }});">
     <div class="content-wrapper">
         <div class = "col-lg-10 col-lg-offset-1">
             <div class = "col-md-4 col-xs-5"> 
@@ -14,8 +14,25 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
+<section id="about" class="about" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.reviewsBackgroundImage }});">
+    <div class="content-wrapper">
+        <div class = "horizontal-flex">
+            <div class = "h-flex-img"> 
+                <img class = "img-circle" src="{{ site.baseurl }}/img/about-section/{{ site.letterImage }}" alt="tempText">
+            </div>
+            <div class = "vertical-flex h-flex-content">
+                <div class = "v-flex-item">
+                    <h5>{{ site.aboutTitle }}</h5>
+                </div>
+                <div class = "v-flex-item">
+                    <p>{{ site.letterContent }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <!-- Begin Rockstar Speakers Section -->
 <!-- <section id="rockstar-speakers" class="rockstar-speakers image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.rockstarSpeakersImage }});">
