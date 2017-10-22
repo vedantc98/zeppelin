@@ -3951,11 +3951,9 @@ th.visible-md,td.visible-md {
 
 .v-flex-item {
     text-align: justify;
-    position: absolute;
 }
 
 .h-flex-img {
-    position: absolute;
     height: 100%;
     flex-grow: 1;
     padding-left: 5%;
@@ -3963,7 +3961,6 @@ th.visible-md,td.visible-md {
 }
 
 .h-flex-content {
-    position: absolute;
     height: 100%;
     flex-grow: 2;
     padding-right: 5%;
@@ -3971,7 +3968,6 @@ th.visible-md,td.visible-md {
 }
 
 #reviews-section {
-    max-height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
