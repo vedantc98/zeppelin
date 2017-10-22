@@ -6,7 +6,7 @@
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for sponsor in site.sponsors2List %}
-                {% assign colWidth = 12 | divided_by: forloop.length - 1 %}
+                {% assign colWidth = 12 | divided_by: 1 %}
                 <div class="col-md-{{ colWidth }} col-xs-6">  
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <!-- <h5>{{ sponsor.title }}</h5> -->
