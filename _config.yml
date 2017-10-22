@@ -141,8 +141,11 @@ aboutUs: "Google's services have become synonymous with simple things online. Nu
 
 
 #Sponsors block
-sponsorsTitle: "SPONSORS"
+sponsorsTitle: "In Association with "
 sponsorsList:
  - {title: "mun_planet", image: "mun_planet_logo.png"}
  - {title: "mun_turkey", image: "mun_turkey_logo.png"}
+
+sponsors2Title: "In Collaboration with "
+sponsors2List: 
  - {title: "techfest_world_mun", image: "techfest_world_mun_logo.png"}
