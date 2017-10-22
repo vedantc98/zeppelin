@@ -3971,9 +3971,10 @@ th.visible-md,td.visible-md {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+    height: 500px; 
     width: 100%;
 }
 
 .reviews-text {
-
+    color: white;
 }
