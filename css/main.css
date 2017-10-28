@@ -3986,3 +3986,7 @@ th.visible-md,td.visible-md {
 #contact-us-top {
     max-height: 300px;
 }
+
+#location-map {
+    background-repeat: no-repeat;
+}
