@@ -39,14 +39,10 @@
                 logo.removeClass('logo-dark').addClass('logo-light');
             }
 
-            if (scroll >= $('.top-section').height() && $(window).width() > 767) {
+            if ((scroll >= $('.top-section').height() && $(window).width() > 767) || window.location.href.split('/').length != 4) {
                 buyButton.removeClass('right-nav-button-hidden');
             } else if (scroll < $('.top-section').height() && $(window).width() > 767){
                 buyButton.addClass('right-nav-button-hidden');
-            }
-
-            if (typeof window.location.href.split('/')[4] != 'undefined') {
-                buyButton.removeClass('right-nav-button-hidden');
             }
 
             $('.slot').each(function() {
