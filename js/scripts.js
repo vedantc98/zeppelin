@@ -45,6 +45,10 @@
                 buyButton.addClass('right-nav-button-hidden');
             }
 
+            if (typeof window.location.href.split('/')[4] != 'undefined') {
+                buyButton.removeClass('right-nav-button-hidden');
+            }
+
             $('.slot').each(function() {
                 var currentPosition = $(this).offset().top - scroll;
                 var offsetActivator = topOffset + $(this).find('.slot-title').height();

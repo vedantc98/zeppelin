@@ -46,6 +46,7 @@ navigationLinks:
  - {permalink: "/team/", text: "About Us"}
  - {permalink: "/schedule/", text: "Councils"}
  - {permalink: "/speakers/", text: "Contact Us"}
+ - {permalink: "/apply/", text: "Apply Now"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
 rightNavigationButtons:
