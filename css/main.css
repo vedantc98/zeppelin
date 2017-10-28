@@ -3982,3 +3982,7 @@ th.visible-md,td.visible-md {
 #apply-button {
     background-color: blue;
 }
+
+#contact-us-top {
+    max-height: 300px;
+}
