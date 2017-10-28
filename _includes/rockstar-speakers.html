@@ -18,18 +18,14 @@
 
 <section id="about" class="about" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.reviewsBackgroundImage }});">
     <div class="content-wrapper">
-        <div class = "horizontal-flex">
-            <div class = "h-flex-img"> 
+        <div class="row">
+            <div class="col-md-4 col-xs-4">
                 <img class = "img-circle" src="{{ site.baseurl }}/img/about-section/{{ site.reviewsImage }}" alt="tempText">
             </div>
-            <div class = "vertical-flex h-flex-content"><font color = "white">
-                <div class = "v-flex-item">
-                    <h5>{{ site.reviewsTitle }}</h5>
-                </div>
-                <div class = "v-flex-item">
-                    <p>{{ site.reviewsContent }}</p>
-                </div>
-            </div></font>
+            <div class="col-md-8 col-xs-8">
+                <h5>{{ site.reviewsTitle }}</h5>
+                <p>{{ site.reviewsContent }}</p>
+            </div>
         </div>
     </div>
 </section>

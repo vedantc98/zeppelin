@@ -1,17 +1,13 @@
 <!-- About Section -->
 <section id="about" class="about">
     <div class="content-wrapper">
-        <div class = "horizontal-flex">
-            <div class = "h-flex-img"> 
+        <div class="row">
+            <div class="col-md-4 col-xs-4">
                 <img class = "img-circle" src="{{ site.baseurl }}/img/about-section/{{ site.letterImage }}" alt="tempText">
             </div>
-            <div class = "vertical-flex h-flex-content">
-                <div class = "v-flex-item">
-                    <h5>{{ site.aboutTitle }}</h5>
-                </div>
-                <div class = "v-flex-item">
-                    <p>{{ site.letterContent }}</p>
-                </div>
+            <div class="col-md-8 col-xs-8">
+                <h5>{{ site.aboutTitle }}</h5>
+                <p>{{ site.letterContent }}</p>
             </div>
         </div>
     </div>
