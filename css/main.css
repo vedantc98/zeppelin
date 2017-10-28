@@ -3978,3 +3978,7 @@ th.visible-md,td.visible-md {
 .reviews-text {
     color: white;
 }
+
+#apply-button {
+    color: blue;
+}
