@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/team/", text: "About Us"}
  - {permalink: "/schedule/", text: "Councils"}
- - {permalink: "/speakers/", text: "Contact Us"}
+ - {permalink: "/contact-us/", text: "Contact Us"}
  - {permalink: "/apply/", text: "Apply Now"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
@@ -146,6 +146,7 @@ contacts:
  - {name: "Shobhit Tayal", designation: "USG Social and Economic Affair", contactNumber: "NUMBERS"}
  - {name: "Shobhit Tayal", designation: "USG Social and Economic Affair", contactNumber: "NUMBERS"}
  - {name: "Shobhit Tayal", designation: "USG Social and Economic Affair", contactNumber: "NUMBERS"}
+locationImage: "location.jpg"
 
 #Sponsors block
 sponsorsTitle: "In Association with "
