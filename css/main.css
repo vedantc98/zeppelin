@@ -3991,14 +3991,13 @@ th.visible-md,td.visible-md {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
+    padding-bottom: 10px;
 }
 
 #location-map {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-}
-
-.whitespace {
-    min-height: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
