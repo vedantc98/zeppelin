@@ -3987,7 +3987,6 @@ th.visible-md,td.visible-md {
 
 #contact-us-top {
     min-height: 350px;
-    max-height: 300px;
     filter: brightness(0.4);
     background-repeat: no-repeat;
     background-size: cover;
@@ -4006,10 +4005,6 @@ th.visible-md,td.visible-md {
 
 #apply-main {
     min-height: 350px;
-}
-
-.apply-type {
-
 }
 
 .enter {
