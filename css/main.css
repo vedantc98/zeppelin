@@ -4016,6 +4016,8 @@ th.visible-md,td.visible-md {
 .apply-type {
     padding: 5%;
     border-radius: 25px;
+    height: 200px;
+    width: 100px;
     display: table;
     text-align: center;
 }
