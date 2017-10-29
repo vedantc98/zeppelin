@@ -4014,10 +4014,10 @@ th.visible-md,td.visible-md {
 }
 
 .apply-type {
-    padding: 5%;
     border-radius: 25px;
     display: table;
     text-align: center;
+    background-size: 100%;
 }
 
 .apply-button {
