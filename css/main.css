@@ -3988,6 +3988,9 @@ th.visible-md,td.visible-md {
 #contact-us-top {
     max-height: 300px;
     filter: brightness(0.4);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
 }
 
 #location-map {
@@ -3997,5 +4000,5 @@ th.visible-md,td.visible-md {
 }
 
 .whitespace {
-    max-height: 50px;
+    max-height: 20px;
 }
