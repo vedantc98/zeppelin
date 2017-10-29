@@ -2,9 +2,8 @@
 	 <div class="content-wrapper">
 	 	<div class="row">
 	 		{% for item in site.applyTypes %}
-	 		<div class="col-md-4 apply-type" align="center">
-	 			<img class="img-rounded" src="{{ site.baseurl }}/img/apply/{{ item.image }}">
-	 			<a class="enter" href="{{ item.applyLink }}" align="center">APPLY</a>
+	 		<div class="col-md-4 apply-type" align="center" style="background-image: url('{{ site.baseurl }}/img/apply/{{ item.image }}');">
+	 			<button class="btn btn-responsive apply-button">APPLY</button>
 	 		</div>
 	 		{% endfor %}
 	 </div>

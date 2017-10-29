@@ -4012,3 +4012,18 @@ th.visible-md,td.visible-md {
     font-family: 'Roboto', sans-serif;
     font-weight: normal;
 }
+
+.apply-type {
+    padding: 5%;
+    border-radius: 25px;
+    height: 200px;
+    width: 100px;
+    display: table;
+    text-align: center;
+}
+
+.apply-button {
+    display: table-cell;
+    vertical-align: bottom;
+    background-color: rgba(0, 0, 0, 0);
+}
