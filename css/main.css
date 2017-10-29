@@ -2227,7 +2227,9 @@ nav li a.current,nav li a:hover {
 .location-description {
     min-width: 400px;
     padding: 20px 50px;
-    background: #fff}
+    background: #fff;
+    box-shadow: 10px 5px 5px rbga(0, 0, 0, 0.2);
+}
 .location-description .icon-direction {
     width: 32px;
     height: 32px;
@@ -3995,5 +3997,5 @@ th.visible-md,td.visible-md {
 }
 
 .whitespace {
-    max-height: 100px;
+    max-height: 50px;
 }
