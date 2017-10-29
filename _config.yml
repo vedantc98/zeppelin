@@ -155,11 +155,11 @@ sponsorsList:
  - {title: "mun_turkey", image: "mun_turkey_logo.png"}
 
 sponsors2Title: "In Collaboration with "
-sponsors2List: 
+sponsors2List:
  - {title: "techfest_world_mun", image: "techfest_world_mun_logo.png"}
 
- #Apply Block
- applyTypes:
+# Apply Block
+applyTypes:
  - {type: "Delegate", applyLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", image: "arbit1.jpg"}
  - {type: "Executive Board", applyLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", image: "arbit2.jpg"}
  - {type: "International Press", applyLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", image: "arbit3.jpg"}
