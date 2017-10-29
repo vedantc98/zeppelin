@@ -4000,5 +4000,5 @@ th.visible-md,td.visible-md {
 }
 
 .whitespace {
-    max-height: 20px;
+    min-height: 20px;
 }
