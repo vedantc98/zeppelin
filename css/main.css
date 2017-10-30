@@ -1814,15 +1814,18 @@ time {
 .reset-padding {
     padding: 0}
 .logo {
-    background-image: url("../img/sprites/IITG mun logo white-01.svg");
+        };
     background-repeat: no-repeat}
 .logo.logo-dark {
+    background-image: url("../img/sprites/IITG mun logo-01 black.svg");
     background-position: center;
     background-size: 226px 150px;}
 .logo.logo-gray {
+    background-image: url("../img/sprites/IITG mun logo-01 black.svg");
     background-position: center;
     background-size: 226px 150px;}
 .logo.logo-light {
+    background-image: url("../img/sprites/IITG mun logo white-01.svg");
     background-position: center;
     background-size: 226px 150px;}
 .icon {
