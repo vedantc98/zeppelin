@@ -4018,6 +4018,8 @@ th.visible-md,td.visible-md {
     display: table;
     text-align: center;
     background-size: 100%;
+    min-height: 250px;
+    min-width: 150px;
 }
 
 .apply-button {
