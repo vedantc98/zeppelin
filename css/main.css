@@ -1814,17 +1814,20 @@ time {
 .reset-padding {
     padding: 0}
 .logo {
-    background-image: url("../img/sprites/logos.png");
+        };
     background-repeat: no-repeat}
 .logo.logo-dark {
+    background-image: url("../img/sprites/IITG mun logo-01 black.svg");
     background-position: center;
-    background-size: 226px 68px;}
+    background-size: 226px 150px;}
 .logo.logo-gray {
+    background-image: url("../img/sprites/IITG mun logo-01 black.svg");
     background-position: center;
-    background-size: 226px 68px;}
+    background-size: 226px 150px;}
 .logo.logo-light {
+    background-image: url("../img/sprites/IITG mun logo white-01.svg");
     background-position: center;
-    background-size: 226px 68px;}
+    background-size: 226px 150px;}
 .icon {
     display: inline-block;
     width: 16px;
@@ -1929,7 +1932,7 @@ nav li {
     padding: 0 8px;
     vertical-align: middle}
 nav li a {
-    font-size: 13px;
+    font-size: 20px;
     font-weight: 300;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
