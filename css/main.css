@@ -4018,15 +4018,18 @@ th.visible-md,td.visible-md {
 
 .apply-type {
     border-radius: 25px;
-    display: table;
     text-align: center;
-    background-size: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
     min-height: 250px;
     min-width: 150px;
 }
 
 .apply-button {
-    display: table-cell;
+    position: absolute;
+    right: 50%;
+    bottom: 10%;
     vertical-align: bottom;
-    background-color: rgba(0, 0, 0, 0);
+    background-color: blue;
 }
