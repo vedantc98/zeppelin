@@ -4028,8 +4028,63 @@ th.visible-md,td.visible-md {
 
 .apply-button {
     position: absolute;
-    right: 50%;
+    right: 45%;
     bottom: 10%;
     vertical-align: bottom;
     background-color: blue;
+}
+
+.councils-main {
+    background-color: #2f7ec3;
+}
+
+#unsc-title {
+    background-color: #2f7ec3;
+}
+
+.timeline {
+    position: relative;
+    padding: 20px 0 20px;
+    list-style: none;
+
+    content: " ";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 3px;
+    margin-left: -1.5px;
+    background-color: #eeeeee;
+}
+
+.timeline-badge {
+    z-index: 100;
+    position: absolute;
+    top: 16px;
+    left: 50%;
+    width: 50px;
+    height: 50px;
+    margin-left: -25px;
+    border-radius: 50% 50% 50% 50%;
+    text-align: center;
+    font-size: 1.4em;
+    line-height: 50px;
+    color: #fff;
+    background-color: #999999;
+}
+
+.timeline-badge.primary {
+    background-color: #2e6da4 !important;
+}
+
+.timeline > li > .timeline-panel{
+    content: " ";
+    display: inline-block;
+    position: absolute;
+    top: 26px;
+    right: -15px;
+    border-top: 15px solid transparent;
+    border-right: 0 solid #ccc;
+    border-bottom: 15px solid transparent;
+    border-left: 15px solid #ccc;
 }
