@@ -4038,11 +4038,11 @@ th.visible-md,td.visible-md {
 }
 
 #unsc-title {
-    border:2px;
+    border:2px solid gray;
 }
 
 #unsc-main {
-    border: 2px;
+    border: 2px solid gray;
 }
 
 .about-council {
