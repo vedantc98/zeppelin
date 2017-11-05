@@ -4039,6 +4039,7 @@ th.visible-md,td.visible-md {
 
 #unsc-title {
     border:2px solid gray;
+    width: 100%;
 }
 
 #unsc-main {
@@ -4046,7 +4047,7 @@ th.visible-md,td.visible-md {
 }
 
 .about-council {
-    position: relative;
+    width: 100%;
     max-height: 200px;
     width: 40%;
 }
