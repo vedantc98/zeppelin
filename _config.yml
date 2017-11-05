@@ -163,3 +163,7 @@ applyTypes:
  - {type: "Delegate", applyLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", image: "arbit1.jpg"}
  - {type: "Executive Board", applyLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", image: "arbit2.jpg"}
  - {type: "International Press", applyLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", image: "arbit3.jpg"}
+
+unsc-title: "United Nations Security Council"
+ecosoc-title: "The Economic and Social Council"
+unhrc-title: "United Nations Human Rights Council"
