@@ -4035,11 +4035,14 @@ th.visible-md,td.visible-md {
 }
 
 .councils-main {
-    background-color: #2f7ec3;
 }
 
 #unsc-title {
-    background-color: #2f7ec3;
+    border:2px;
+}
+
+#unsc-main {
+    border: 2px;
 }
 
 .about-council {
@@ -4053,5 +4056,5 @@ th.visible-md,td.visible-md {
 }
 
 .agenda-page-title {
-    
+
 }
