@@ -1,16 +1,16 @@
 <section id="unsc" class="councils-section">
 	<div id="unsc-main" class="row">
 		<div class="col-md-10" align="center">
-			<div id = "unsc-title">
-				<h1>site.unsc-title</h1>
+			<div id = "unsc-title" align="center">
+				<h1 class="agenda-page-title">{{ site.unsc-title }}</h1>
 			</div>
 			<div id="unsc-data">
-				<ul class="timeline">
+				<ul class="timeline" align="center">
 					<li>
-						<div class="about-council">
+						<div class="about-council" align="left">
 							<div class="about-text">
-								<h2>site.about-title</h2><br>
-								site.about-unsc-text<br>
+								<h4>{{ site.about-title }}</h4><br>
+								{{ site.about-unsc-text }}<br>
 								<button class="btn btn-responsive btn-primary read-more-button">
 									Read More
 								</button>
@@ -20,12 +20,12 @@
 						</div>
 					</li>
 					<li>
-						<div class="about-council">
+						<div class="about-council" align="right">
 							<i class="about-icon fa fa-legal">
 							</i>
 							<div class="about-text">
-								<h2>site.agenda-title</h2><br>
-								site.unsc-agenda-text<br>
+								<h4>{{ site.agenda-title }}</h4><br>
+								{{ site.unsc-agenda-text }}<br>
 								<button class="btn btn-responsive btn-primary read-more-button">
 									Read More
 								</button>

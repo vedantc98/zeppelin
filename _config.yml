@@ -167,3 +167,8 @@ applyTypes:
 unsc-title: "United Nations Security Council"
 ecosoc-title: "The Economic and Social Council"
 unhrc-title: "United Nations Human Rights Council"
+
+unsc-agenda-text: "Lorem Ipsum"
+agenda-title: "Lorem"
+about-title: "lorem"
+about-unsc-text: "lorem ipsum"
