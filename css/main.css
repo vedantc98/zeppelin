@@ -1499,6 +1499,10 @@ time {
     right: 0;
     bottom: 0;
     left: 0;
+    background-image: url("../img/sprites/logo3.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
     background-color: #fff}
 .loader-gplus {
     display: inline-block;
@@ -1511,6 +1515,7 @@ time {
     border-radius: 20px;
     -webkit-animation: base 3s steps(1) 0s infinite;
     animation: base 3s steps(1) 0s infinite}
+/*
 .loader-gplus::before,.loader-gplus::after {
     content: ' ';
     display: block;
@@ -1670,6 +1675,7 @@ time {
     -webkit-transform: rotateY(-720deg);
     transform: rotateY(-720deg)}
 }
+*/
 .social-links li {
     margin-right: 4px;
     display: inline-block}
