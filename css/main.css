@@ -1503,6 +1503,7 @@ time {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
+    background-size: 280px;
     background-color: #fff}
 .loader-gplus {
     display: inline-block;
