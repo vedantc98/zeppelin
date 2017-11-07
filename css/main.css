@@ -4047,9 +4047,9 @@ th.visible-md,td.visible-md {
 #unsc-title {
     border:2px solid gray;
     width: 100%;
-    position: relative;
-    left: 0%;
-    right: 0%; 
+    position: absolute;
+    top: 100%;
+    height: 10%;
 }
 
 #unsc-main {
@@ -4072,8 +4072,10 @@ th.visible-md,td.visible-md {
 }
 
 .agenda-container {
-    position: relative;
-    right: 50%;
+    position: absolute;
+    width: 80%;
+    top: 100%;
+    left: 10%;
 }
 
 .about-agenda {
@@ -4081,4 +4083,10 @@ th.visible-md,td.visible-md {
     right: -50%;
     width: 40%;
     max-height: 200px;
+}
+
+.unsc-data {
+    position: absolute;
+    top: 90%;
+    height: 90%;
 }
