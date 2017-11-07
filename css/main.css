@@ -4052,7 +4052,6 @@ th.visible-md,td.visible-md {
 
 .about-council {
     position: relative;
-    left: -50%;
     max-height: 200px;
     width: 40%;
 }
@@ -4067,7 +4066,7 @@ th.visible-md,td.visible-md {
 
 .agenda-container {
     position: relative;
-    left: 0%;
+    right: 50%;
 }
 
 .about-agenda {
