@@ -93,9 +93,9 @@
 /* The actual content */
 .content {
     padding: 20px 30px;
-    background-color: white;
+    background-color: beige;
     position: relative;
-    border-radius: 6px;
+    box-shadow: 5px 5px;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
@@ -141,14 +141,14 @@
 <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2>2017</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+      <h4>About the Council</h4>
+      <p>{{ site.about-unsc-text }}</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2016</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+      <h4>Agenda</h4>
+      <p>{{ site.unsc-agenda-text }}</p>
     </div>
   </div>
 </div>
