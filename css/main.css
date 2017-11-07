@@ -4046,6 +4046,11 @@ th.visible-md,td.visible-md {
 
 #unsc-title {
     border:2px solid gray;
+    top: 0;
+    left: 50%;
+    margin-left: -10%;
+    height: 10%;
+    width: 100%;
 }
 
 #unsc-main {
@@ -4053,6 +4058,12 @@ th.visible-md,td.visible-md {
 }
 
 .about-council {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 0;
+    height: 45%;
+    padding-bottom: 5%;
 }
 
 .timeline {
@@ -4068,9 +4079,18 @@ th.visible-md,td.visible-md {
 }
 
 .about-agenda {
-    
+    position: absolute;
+    top: 50%;
+    padding-top: 5%;
+    height: 45%;
+    right: 0;
 }
 
-.unsc-data {
-
+#unsc-data {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    margin-left: -10%;
+    height: 90%;
+    width: 100%;
 }
