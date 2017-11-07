@@ -4044,13 +4044,8 @@ th.visible-md,td.visible-md {
 .councils-main {
 }
 
-#unsc-title {
-    border:2px solid gray;
-    top: 0;
-    left: 50%;
-    margin-left: -10%;
-    height: 10%;
-    width: 100%;
+.agenda-title {
+    
 }
 
 #unsc-main {
