@@ -4046,21 +4046,14 @@ th.visible-md,td.visible-md {
 
 #unsc-title {
     border:2px solid gray;
-    width: 100%;
-    position: absolute;
-    top: 100%;
-    height: 10%;
 }
 
 #unsc-main {
     border: 2px solid gray;
-    width: 100%;
 }
 
 .about-council {
-    position: relative;
-    max-height: 200px;
-    width: 40%;
+    
 }
 
 .timeline {
@@ -4072,21 +4065,13 @@ th.visible-md,td.visible-md {
 }
 
 .agenda-container {
-    position: absolute;
-    width: 80%;
-    top: 100%;
-    left: 10%;
+    
 }
 
 .about-agenda {
-    position: relative;
-    right: -50%;
-    width: 40%;
-    max-height: 200px;
+    
 }
 
 .unsc-data {
-    position: absolute;
-    top: 90%;
-    height: 90%;
+
 }
