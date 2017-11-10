@@ -45,7 +45,6 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/team/", text: "About Us"}
- - {permalink: "/schedule/", text: "Councils"}
  - {permalink: "/contact-us/", text: "Contact Us"}
  - {permalink: "/apply/", text: "Apply Now"}
 bottomNavigationLinks:
