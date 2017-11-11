@@ -15,7 +15,7 @@
             </li>
             {% endfor %}
             <li class="dropdown">
-                <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %} dropdown-toggle"  href="#" data-toggle="dropdown" aria-expanded="true">Councils
+                <a class="dropdown-toggle"  href="#" data-toggle="dropdown">Councils
                     <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu">
@@ -33,7 +33,7 @@
             <li>
                 <div class="apply-button-main">
                     <font color="blue">
-                    <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}" href="{{ site.apply-link | prepend: site.basurl }}">Apply Now</a></font>
+                    <a href="{{ site.apply-link | prepend: site.basurl }}">Apply Now</a></font>
                 </div>
             </li>
         </ul>
