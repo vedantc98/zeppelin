@@ -4089,3 +4089,7 @@ th.visible-md,td.visible-md {
     height: 90%;
     width: 100%;
 }
+
+body.modal div.modal-backdrop { 
+    z-index: 0; 
+}
