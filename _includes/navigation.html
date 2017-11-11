@@ -32,7 +32,8 @@
             </li>
             <li>
                 <div class="apply-button-main">
-                    <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}" href="{{ site.apply-link | prepend: site.basurl }}">Apply Now</a>
+                    <font color="blue">
+                    <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}" href="{{ site.apply-link | prepend: site.basurl }}">Apply Now</a></font>
                 </div>
             </li>
         </ul>
