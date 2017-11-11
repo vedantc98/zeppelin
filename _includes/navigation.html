@@ -14,9 +14,8 @@
                 <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
             </li>
             {% endfor %}
-            <li>
-                <div class="dropdown">
-                <button class="btn btn-secomdary dropdown-toggle" type="button" data-toggle="dropdown">Councils
+            <!-- <li class="dropdown">
+                <a class="dropdown-toggle"  href="#" data-toggle="dropdown">Councils
                     <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu">
@@ -30,8 +29,7 @@
                         <a href="{{ site.unga-link | prepend: site.baseurl }}">UNGA</a>
                     </li>
                 </ul>
-                </div>
-            </li>
+            </li> -->
             <li>
                 <div class="apply-button-main">
                     <font color="blue">
