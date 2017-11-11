@@ -169,13 +169,20 @@ applyTypes:
  - {type: "Executive Board", applyLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", image: "arbit2.jpg"}
  - {type: "International Press", applyLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", image: "arbit3.jpg"}
 
-unsc-title: "United Nations Security Council"
-ecosoc-title: "The Economic and Social Council"
-unhrc-title: "United Nations Human Rights Council"
+lok-sabha-title: "Lok Sabha"
+lok-sabha-agenda-text: "AGENDA INTRO"
+about-lok-sabha-text: "LOK SABHA INTRO"
+lok-sabha-popup-text-about: "ABOUT THE LOK SABHA HERE"
+lok-sabha-popup-text-agenda: "AGENDA OF LOK SABHA HERE"
 
-unsc-agenda-text: "AGENDA INTRO"
-agenda-title: "Lorem"
-about-title: "lorem"
-about-unsc-text: "UNSC INTRO"
-unsc-popup-text-about: "ABOUT THE UNSC HERE"
-unsc-popup-text-agenda: "AGENDA OF UNSC HERE"
+unga-title: "The United Nations General Assembly"
+unga-agenda-text: "AGENDA INTRO"
+about-unga-text: "UNGA INTRO"
+unga-popup-text-about: "ABOUT THE UNGA HERE"
+unga-popup-text-agenda: "AGENDA OF THE UNGA HERE"
+
+ecosoc-title: "The Economic and Social Council"
+ecosoc-agenda-text: "AGENDA INTRO"
+about-ecosoc-text: "ECOSOC INTRO"
+ecosoc-popup-text-about: "ABOUT THE ECOSOC HERE"
+ecosoc-popup-text-agenda: "AGENDA OF THE ECOSOC HERE"
