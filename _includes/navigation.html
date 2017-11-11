@@ -14,8 +14,8 @@
                 <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
             </li>
             {% endfor %}
-            <li>
-                <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="#" data-toggle="dropdown" aria-expanded="true">Councils
+            <li class="dropdown">
+                <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %} dropdown-toggle"  href="#" data-toggle="dropdown" aria-expanded="true">Councils
                     <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu">
