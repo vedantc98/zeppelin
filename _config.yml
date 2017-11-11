@@ -46,11 +46,17 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/team/", text: "About Us"}
  - {permalink: "/contact-us/", text: "Contact Us"}
- - {permalink: "/apply/", text: "Apply Now"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
 rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
+
+apply-link: "/apply/"
+
+# Councils links
+lok-sabha-link: "/lok-sabha/"
+ecosoc-link: "/ecosoc/"
+unga-link: "/unga/"
 
 # Hero Block
 heroImage: "hero.jpg"

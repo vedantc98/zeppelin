@@ -15,20 +15,25 @@
             </li>
             {% endfor %}
             <li>
-                <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %} dropdown-toggle" data-toggle="dropdown" href="#" aria-expanded="true">Councils
+                <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="#" data-toggle="dropdown" aria-expanded="true">Councils
                     <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu">
                     <li>
-                        <a href="../lok-sabha.html">Lok Sabha</a>
+                        <a href="{{ site.lok-sabha-link | prepend: site.baseurl }}">Lok Sabha</a>
                     </li>
                     <li>
-                        <a href="../ecosoc.html">ECOSOC</a>
+                        <a href="{{ site.ecosoc-link | prepend: site.baseurl }}">ECOSOC</a>
                     </li>
                     <li>
-                        <a href="../unga.html">UNGA</a>
+                        <a href="{{ site.unga-link | prepend: site.baseurl }}">UNGA</a>
                     </li>
                 </ul>
+            </li>
+            <li>
+                <div class="apply-button-main">
+                    <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}" href="{{ site.apply-link | prepend: site.basurl }}">Apply Now</a>
+                </div>
             </li>
         </ul>
         <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
