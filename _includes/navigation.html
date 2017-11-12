@@ -14,30 +14,32 @@
                 <a class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
             </li>
             {% endfor %}
-            <li class="dropdown">
+            <!-- <li class="dropdown">
                 <a class="dropdown-toggle" type="button" data-toggle="dropdown" href="#">Councils
                 <span class="caret"></span></button>
             <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
                 <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Lok Sabha123</a></li>
                 <li role="presentation"><a role="menuitem" tabindex="-1" href="#">UNGA</a></li>
                 <li role="presentation"><a role="menuitem" tabindex="-1" href="#">ECOSOC</a></li>
-            </ul>
-            <!--    <a class="dropdown-toggle" data-toggle="dropdown"  href="#">Councils
+            </ul> -->
+            <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown"  href="#">Councils
                     <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu">
                     <li>
-                        <a href="{{ site.lok-sabha-link | prepend: site.baseurl }}">Lok Sabha</a>
+                        <a href="http://www.iitgmun.org/home/index.html#">Lok Sabha</a>
                     </li>
                     <li>
-                        <a href="{{ site.ecosoc-link | prepend: site.baseurl }}">ECOSOC</a>
+                        <a href="http://www.iitgmun.org/home/index.html#">ECOSOC</a>
                     </li>
                     <li>
-                        <a href="{{ site.unga-link | prepend: site.baseurl }}">UNGA</a>
+                        <a href="http://www.iitgmun.org/home/index.html#">UNGA</a>
                     </li>
                 </ul>
-            </li> --> 
-            <li>
+            </li>
+
+            <li class="apply-button-main">
                 <div class="apply-button-main">
                     <button class="btn btn-primary" type="button">
                     <a href="{{ site.apply-link | prepend: site.basurl }}">Apply Now</a></button>

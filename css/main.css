@@ -4093,3 +4093,7 @@ th.visible-md,td.visible-md {
 body.modal div.modal-backdrop { 
     z-index: 0; 
 }
+
+.apply-button-main {
+    padding-left: 50px;
+}
