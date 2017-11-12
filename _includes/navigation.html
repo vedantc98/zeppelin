@@ -15,7 +15,14 @@
             </li>
             {% endfor %}
             <li class="dropdown">
-                <a class="dropdown-toggle" data-toggle="dropdown"  href="#">Councils
+                <a class="dropdown-toggle" type="button" data-toggle="dropdown" href="#">Councils
+                <span class="caret"></span></button>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Lok Sabha123</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="#">UNGA</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="#">ECOSOC</a></li>
+            </ul>
+            <!--    <a class="dropdown-toggle" data-toggle="dropdown"  href="#">Councils
                     <span class="caret"></span>
                 </a>
                 <ul class="dropdown-menu">
@@ -29,7 +36,7 @@
                         <a href="{{ site.unga-link | prepend: site.baseurl }}">UNGA</a>
                     </li>
                 </ul>
-            </li> 
+            </li> --> 
             <li>
                 <div class="apply-button-main">
                     <button class="btn btn-primary" type="button">
