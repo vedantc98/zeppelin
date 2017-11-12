@@ -4095,6 +4095,6 @@ body.modal div.modal-backdrop {
 }
 
 .apply-button-main {
-    position: relative;
-    right: 0%; 
+    padding: 0 8px;
+    padding-left: 80px;
 }
