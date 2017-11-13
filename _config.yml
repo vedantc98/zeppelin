@@ -121,7 +121,7 @@ rockstarSpeakersButtonText: "See all members"
 
 # Reviews Block
 reviewsTitle: "Reviews"
-reviewsContent: "“Yes, the IITG MUN has amazing discussions, but the best part of this MUN has to be the people. We are united by the strongest bond of common interests. Continuous open dialogue with people we only know by country names during the conference and the supportive MUN community is, by far, its most beautiful part.”- Ariktha Srinivasthan"
+reviewsContent: "“Yes, the IITG MUN has amazing discussions, but the best part of this MUN has to be the people. We are united by the strongest bond of common interests. Continuous open dialogue with people we only know by country names during the conference and the supportive MUN community is, by far, its most beautiful part.”"
 reviewsImage: "reviews.jpg"
 reviewsBackgroundImage: "reviewsBG.jpg"
 
@@ -146,10 +146,9 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://plus.google.com/107674802951013132554", icon: "google-plus"}
+ - {link: "https://twitter.com/iitg_mun", icon: "twitter"}
+ - {link: "https://www.facebook.com/iitgmun/", icon: "facebook"}
 footerBlocks:
  -
   title: "Links"
