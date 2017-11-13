@@ -10,7 +10,7 @@
                         {% for contact in site.contacts %}
                         <div class="col-md-4 col-xs-4 col-sm-4">
                             <ul>
-                                <li><b>{{ contact.name }}</b></li>
+                                <a href={{ contact.fbLink }}<li><b>{{ contact.name }}</b></li></a>
                                 <li>{{ contact.designation }}</li>
                                 <li>{{ contact.contactNumber }}</li>
                             </ul>

@@ -174,9 +174,9 @@ aboutUs: "Google's services have become synonymous with simple things online. Nu
 contactUsBlockTitle: "Contact Us"
 contactUsTopImage: "top-section.jpg"
 contacts:
- - {name: "Shobhit Tayal", designation: "USG Social and Economic Affairs", contactNumber: "NUMBERS"}
- - {name: "Vishal Bansukhwa", designation: "USG Delegate Affairs", contactNumber: "NUMBERS"}
- - {name: "Saurabh Raj", designation: "USG Administration", contactNumber: "NUMBERS"}
+ - {name: "Sujal Harsh Ranjan", designation: "USG Social and Economic Affairs", contactNumber: "+91 8486772158", fbLink: "https://www.facebook.com/Suji131211"}
+ - {name: "Sangam Sharma", designation: "USG Delegate Affairs", contactNumber: "+91 8486808779", fbLink: "https://www.facebook.com/sangam.sharma.90226628"}
+ - {name: "Vijayant Balhara", designation: "USG Administration", contactNumber: "+91 9811040041", fbLink: "https://www.facebook.com/vijayant.balhara.3"}
 locationImage: "location.jpg"
 
 #Sponsors block
