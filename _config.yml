@@ -104,7 +104,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "450", specialCharacter: "+", info: "Delegates", detail: "from all over India"}
  - {count: "25", specialCharacter: "+", info: "Executive Board", detail: "overall"}
- - {count: "", specialCharacter: "+", info: "International Press", detail: "from country and beyond"}
+ - {count: "20", specialCharacter: "+", info: "International Press", detail: "from country and beyond"}
 
 # Latest News Block
 latestNewsTitle: "COUNCILS"
