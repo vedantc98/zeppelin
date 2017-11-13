@@ -4113,3 +4113,7 @@ body.modal div.modal-backdrop {
     background-repeat: no-repeat;
     min-height: 1000px;
 }
+
+.navlink {
+    color: black;
+}
