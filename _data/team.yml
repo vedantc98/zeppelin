@@ -1,60 +1,180 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Paridhi"
+  surname: "Kothari"
+  title: "Secretary General"
+  thumbnailUrl: paridhi.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Saurabh"
+  surname: "Raj"
+  title: "Chief of Staff"
+  thumbnailUrl: saurabh.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Krishna"
+  surname: "Praveen"
+  title: "Director General"
+  thumbnailUrl: krispy.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+- 
+  id: 3
+  name: "Shobhit"
+  surname: "Tayal"
+  title: "Director General"
+  thumbnailUrl: shobhit.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  name: "Deekshith"
+  surname: "Raya"
+  title: "Director General"
+  thumbnailUrl: deekshith.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  id: 5
+  name: "Vishal"
+  surname: "Banskuwa"
+  title: "Director General"
+  thumbnailUrl: vishal.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 6
+  name: "Vedant"
+  surname: "Chakravadhanula"
+  title: "USG Information Services"
+  thumbnailUrl: god.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 8
+  name: "Vrishank"
+  surname: "Bhardwaj"
+  title: "USG Information Services"
+  thumbnailUrl: randz.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 9
+  name: "Tejal"
+  surname: "Agarwal"
+  title: "USG International Press"
+  thumbnailUrl: tejpal.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 10
+  name: "Vijayant"
+  surname: "Balhara"
+  title: "USG Social and Economic Affairs"
+  thumbnailUrl: pedo.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 11
+  name: "Shubhang"
+  surname: "Shukla"
+  title: "USG Administration"
+  thumbnailUrl: shubhang.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 12
+  name: "Sanchit"
+  surname: "Jhunjhunwala"
+  title: "Deputy Secretary General"
+  thumbnailUrl: sanchit.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 13
+  name: "Shwetank"
+  surname: "Panwar"
+  title: "USG Economic and Social Affairs"
+  thumbnailUrl: shwetank.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 14
+  name: "Sujal"
+  surname: "Ranjan"
+  title: "USG Infrastructure"
+  thumbnailUrl: sujal.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 15
+  name: "Shwetank"
+  surname: "Panwar"
+  title: "USG Economic and Social Affairs"
+  thumbnailUrl: shwetank.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 16
+  name: "Sangam"
+  surname: "Sharma"
+  title: "USG Delegate Affairs"
+  thumbnailUrl: sangam.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 17
+  name: "Prasanna"
+  surname: ""
+  title: "USG Delegate Affairs"
+  thumbnailUrl: prasanna.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 18
+  name: "Sudeep"
+  surname: "Suresh"
+  title: "USG Creative Content"
+  thumbnailUrl: sudeep.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 19
+  name: "Prerna"
+  surname: "Vimania"
+  title: "USG Creative Content"
+  thumbnailUrl: prerna.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 20
+  name: "Deepshikha"
+  surname: "Pegu"
+  title: "USG Creative Content"
+  thumbnailUrl: deepshikha.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
