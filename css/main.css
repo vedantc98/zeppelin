@@ -4095,6 +4095,10 @@ body.modal div.modal-backdrop {
     z-index: 0; 
 }
 
-.apply-button-main {
-    
+#apply-button-main {
+    background-color: transparent;
+}
+
+#apply-button-main:hover {
+    background-color: black;
 }
