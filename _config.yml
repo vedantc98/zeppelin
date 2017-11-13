@@ -198,10 +198,10 @@ applyTypes:
  - {type: "International Press", applyLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", image: "arbit3.jpg"}
 
 lok-sabha-title: "Lok Sabha"
-lok-sabha-agenda-text: "A recent landmark verdict by the Hon’ble Supreme Court established Right to Privacy as a Fundamental Right. Supreme Court, in its decision, stated that Right to Privacy is guaranteed to all the citizens of the country by virtue of it being enshrined in the sacred words of the constitution. However, the implications of this revolutionizing decision stand in a stark contrast with some currently enacted laws, the most significant of them being Aadhar’s legal status, Homosexuality and Abortion Laws. Furthermore, the Hon’ble Supreme Court has not presented a rigid legal definition of Right to Privacy, which makes its execution as a Right even more strenuous. A comprehensive and intensive deliberation on the definition of Privacy and its consequences as a Right is crucially needed, because this momentous decision can only reach its full extent when we carve the way to its effective implementation"
+lok-sabha-agenda-text: "A recent landmark verdict by the Hon’ble Supreme Court established Right to Privacy as a Fundamental Right. Supreme Court, in its decision, stated that Right to Privacy is..."
 about-lok-sabha-text: "LOK SABHA INTRO"
 lok-sabha-popup-text-about: "ABOUT THE LOK SABHA HERE"
-lok-sabha-popup-text-agenda: "AGENDA OF LOK SABHA HERE"
+lok-sabha-popup-text-agenda: "A recent landmark verdict by the Hon’ble Supreme Court established Right to Privacy as a Fundamental Right. Supreme Court, in its decision, stated that Right to Privacy is guaranteed to all the citizens of the country by virtue of it being enshrined in the sacred words of the constitution. However, the implications of this revolutionizing decision stand in a stark contrast with some currently enacted laws, the most significant of them being Aadhar’s legal status, Homosexuality and Abortion Laws. Furthermore, the Hon’ble Supreme Court has not presented a rigid legal definition of Right to Privacy, which makes its execution as a Right even more strenuous. A comprehensive and intensive deliberation on the definition of Privacy and its consequences as a Right is crucially needed, because this momentous decision can only reach its full extent when we carve the way to its effective implementation"
 lokSabhaTopImage: "lok-sabha-top.jpg"
 
 unga-title: "The United Nations General Assembly"
