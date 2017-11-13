@@ -4035,6 +4035,7 @@ th.visible-md,td.visible-md {
 }
 
 .apply-button {
+    color: white;
     position: absolute;
     right: 45%;
     bottom: 10%;
