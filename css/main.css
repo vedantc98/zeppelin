@@ -4102,3 +4102,7 @@ body.modal div.modal-backdrop {
 #apply-button-main:hover {
     background-color: black;
 }
+
+#team-top-section {
+    filter: brightness(0.6);
+}
