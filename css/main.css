@@ -4106,3 +4106,7 @@ body.modal div.modal-backdrop {
 #team-top-section {
     filter: brightness(0.6);
 }
+
+#coming-soon {
+    min-height: 1000px;
+}
