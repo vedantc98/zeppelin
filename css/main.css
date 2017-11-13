@@ -4118,3 +4118,9 @@ body.modal div.modal-backdrop {
 .navlink {
     color: black;
 }
+
+.teamImage {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;   
+}

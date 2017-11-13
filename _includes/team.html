@@ -10,7 +10,7 @@
             {% for teamMember in site.data.team %} {% if teamMember.team != null %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect" data-toggle="modal" data-target="#speakerDetail-{{ teamMember.id }}">
-                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }})">
+                    <figure class="waves-effect waves-block waves-light teamImage" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamMember.thumbnailUrl }});">
                         <div class="overlay solid-overlay"></div>
                         <figcaption>
                             <div class="col-md-8 col-xs-8 text-left">
@@ -52,7 +52,7 @@
         </div> -->
     </div>
     <div align='center'>
-    <iframe width="756" height="446" src="https://www.youtube.com/embed/KvkgtSVq7Sg" frameborder="0" gesture="media" allowfullscreen></iframe>
+    <iframe width="756" height="446" src="https://www.youtube.com/watch?v=ojdWQZV5IGo" frameborder="0" gesture="media" allowfullscreen></iframe>
     </div>
 </section>
 <!-- End Team List -->
