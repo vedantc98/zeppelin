@@ -38,12 +38,12 @@
                 <a href="{{ site.apply-link | prepend: site.basurl }}" style="color: blue;">Apply Now</a></button>
             </li>
         </ul>
-        <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
+        <!-- <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
             {% for bottomNavigationLink in site.bottomNavigationLinks %}
             <li>
                 <a href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}>{{ bottomNavigationLink.text }}</a>
             </li>
             {% endfor %}
-        </ul>
+        </ul> -->
     </nav>
 </header>
