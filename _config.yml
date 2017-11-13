@@ -84,9 +84,9 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle: "COUNCILS"
 latestNewsBlock:
- - {title: "UNSC", image: "unsc_logo.jpg", text: ""}
- - {title: "UNHRC", image: "unhrc_logo.png", text: ""}
- - {title: "ECOSOC", image: "ecosoc_logo.jpg", text: ""}
+ - {title: "Lok Sabha", image: "unsc_logo.jpg", text: "", link: "lok-sabha"}
+ - {title: "UNGA", image: "unhrc_logo.png", text: "", link: "unga"}
+ - {title: "ECOSOC", image: "ecosoc_logo.jpg", text: "", link: "ecosoc"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
