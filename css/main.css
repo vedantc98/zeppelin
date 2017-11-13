@@ -4108,5 +4108,8 @@ body.modal div.modal-backdrop {
 }
 
 #coming-soon {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
     min-height: 1000px;
 }
