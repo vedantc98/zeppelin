@@ -60,7 +60,7 @@ ecosoc-link: "/ecosoc/"
 unga-link: "/unga/"
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "IIT GUWAHATI MUN <typeout>"
 eventDate: "SPRING EDITION'18"
 typeoutFallback: ""
