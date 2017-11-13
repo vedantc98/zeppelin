@@ -55,7 +55,7 @@
 - 
   id: 6
   name: "Vedant"
-  surname: "Chakravadhanula"
+  surname: "C"
   title: "USG Information Services"
   thumbnailUrl: god.jpg
   team: true
@@ -100,7 +100,7 @@
 - 
   id: 12
   name: "Sanchit"
-  surname: "Jhunjhunwala"
+  surname: "J"
   title: "Deputy Secretary General"
   thumbnailUrl: sanchit.jpg
   team: true
@@ -145,7 +145,7 @@
 - 
   id: 17
   name: "Prasanna"
-  surname: ""
+  surname: "V"
   title: "USG Delegate Affairs"
   thumbnailUrl: prasanna.jpg
   team: true
@@ -153,15 +153,6 @@
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 18
-  name: "Sudeep"
-  surname: "Suresh"
-  title: "USG Creative Content"
-  thumbnailUrl: sudeep.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-- 
-  id: 19
   name: "Prerna"
   surname: "Vimania"
   title: "USG Creative Content"
@@ -170,7 +161,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
-  id: 20
+  id: 19
   name: "Deepshikha"
   surname: "Pegu"
   title: "USG Creative Content"

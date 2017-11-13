@@ -194,7 +194,7 @@ sponsors2List:
 # Apply Block
 applyTypes:
  - {type: "Delegate", applyLink: "https://vedantc98.github.io/zeppelin/coming-soon/", image: "arbit1.jpg"}
- - {type: "Executive Board", applyLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ", image: "arbit2.jpg"}
+ - {type: "Executive Board", applyLink: "https://docs.google.com/forms/d/1hR2Ul7I0VlTav_Xdjv4D_f7fUA705EXAzdg6GW168I8/viewform?edit_requested=true", image: "arbit2.jpg"}
  - {type: "International Press", applyLink: "https://vedantc98.github.io/zeppelin/coming-soon/", image: "arbit3.jpg"}
 
 lok-sabha-title: "Lok Sabha"
