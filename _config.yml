@@ -110,7 +110,7 @@ statisticBlock:
 latestNewsTitle: "COUNCILS"
 latestNewsBlock:
  - {title: "Lok Sabha", image: "unsc_logo.jpg", text: "", link: "lok-sabha"}
- - {title: "UNGA", image: "unhrc_logo.png", text: "", link: "unga"}
+ - {title: "UNGA", image: "unga_logo.jpg", text: "", link: "unga"}
  - {title: "ECOSOC", image: "ecosoc_logo.jpg", text: "", link: "ecosoc"}
 
 # Rockstar Speakers Block
