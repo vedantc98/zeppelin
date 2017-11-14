@@ -126,15 +126,6 @@
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 15
-  name: "Shwetank"
-  surname: "Panwar"
-  title: "USG Economic and Social Affairs"
-  thumbnailUrl: shwetank.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-- 
-  id: 16
   name: "Sangam"
   surname: "Sharma"
   title: "USG Delegate Affairs"
@@ -143,7 +134,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
-  id: 17
+  id: 16
   name: "Prasanna"
   surname: "V"
   title: "USG Delegate Affairs"
@@ -152,7 +143,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
-  id: 18
+  id: 17
   name: "Prerna"
   surname: "Vimania"
   title: "USG Creative Content"
@@ -161,7 +152,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
-  id: 19
+  id: 18
   name: "Deepshikha"
   surname: "Pegu"
   title: "USG Creative Content"
