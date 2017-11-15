@@ -52,7 +52,7 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Apply now"}
 
 # CHANGE , TODO
-apply-link: "/zeppelin/apply/"
+apply-link: "/apply/"
 
 # Councils links
 lok-sabha-link: "/lok-sabha/"
