@@ -4,7 +4,7 @@
 	 		{% for item in site.applyTypes %}
 	 		<div class="col-md-4" align="center">
 	 			<div class="apply-type"  style="background-image: url('{{ site.baseurl }}/img/apply/{{ item.image }}');">
-	 				<button class="btn btn-responsive btn-primary apply-button"><a href="{{ item.applyLink }}" style="color: white;">APPLY</a></button>
+	 				<a href="{{ item.applyLink }}" class="btn btn-responsive btn-primary apply-button" style="color: white;">APPLY</a>
 	 			</div>
 	 		</div>
 	 		{% endfor %}
