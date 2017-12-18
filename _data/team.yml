@@ -4,6 +4,7 @@
   surname: "Kothari"
   title: "Secretary General"
   thumbnailUrl: paridhi.jpg
+  description: "The general secretary of the IITG Model United Nations, Paridhi is a cheerful person with an aura of innocence, yet she manages to hold the impulsive team together. She is a prolific writer with a blog of her own and possesses an impressive taste in literature as well. Swimming comes naturally to her along with an insatiable propensity for adventure specifically rowing boats in savage seas or little lakes. Her ideas are quite out of the this world and she speaks her mind with enchanting intricacies amusing everyone who are able to understand them. Paridhi’s contribution to this team over the past two years is unparalleled and the team is blessed to have a such an amazing person among them."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -13,6 +14,7 @@
   surname: "Raj"
   title: "Chief of Staff"
   thumbnailUrl: saurabh.jpg
+  description: "From being the Coordinator of Logistics to USG Administration, for three years, Saurabh has been a pillar among the many, for the team. This hard working chap, with a profound knowledge of international relations and political dynamics has a zest for expression and writing. His understanding of working a team makes him a leader one would follow. Work aside, he loves Sufi Poetry and Classical rock - hand him a guitar, and you wouldn't be disappointed."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -22,6 +24,7 @@
   surname: "Praveen"
   title: "Director General"
   thumbnailUrl: krispy.jpg
+  description: "Having been a core in the International Press, this man is the literary and contemplative dynamite of the team. Reserved and polite, he may seem, Krishna is the go-to-guy for anything you want to 'think' about. His love for writing is unmatched, ability for it uncontested. Technically and academically gifted, he loves research. One of the most fun people, once you know him well enough, he has a passion for science-fiction and high-fantasy, explaining his love for anime."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -31,6 +34,7 @@
   surname: "Tayal"
   title: "Director General"
   thumbnailUrl: shobhit.jpg
+  description: "A Logistics and Public Relations maestro, Shobhit gets work done.A multi-tasker as he is, he is the man in the hour of need. An avid MUNner, he takes great interest in national politics and domestic debate. A guitarist and player of chess and, as he likes to improve at being in his free time, Mr. Do-it-all has more to him than meets the eye. And ladies beware - his chivalry is smoother than a satin wipe."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -40,6 +44,7 @@
   surname: "Raya"
   title: "Director General"
   thumbnailUrl: deekshith.jpg
+  description: ""
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -49,24 +54,27 @@
   surname: "Banskuwa"
   title: "Director General"
   thumbnailUrl: vishal.jpg
+  description: "Working behind the scenes, Vishal is the one who makes things seem easy. He's been involved in many things, ranging from research to creatives, during his time in the team. The extremely friendly and caring guy that he is, also makes him a fun guy to hang out with. A very enthusiastic writer, he is quite a linguist himself - knowing German and little Danish too. The love for music is what keeps his spirits up."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 6
-  name: "Vedant"
-  surname: "C"
-  title: "USG Information Services"
-  thumbnailUrl: god.jpg
+  name: "Sanchit"
+  surname: "J"
+  title: "Deputy Secretary General"
+  thumbnailUrl: sanchit.jpg
+  description: "A goldmine of abstruse and transcendental ideas, Sanchit is a true mechanical engineer (without the girl issues though). Gifted with an exceptional dexterity for creative thinking, he’s ingenuity is strikingly visible in his work. Whether it's his intelligent articles or his academic tasks. A big guy by all standards, he is a basketball fan and tries his hand with the ball from time to time. A passionate music lover, he has a knack for playing the violin as well."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 8
-  name: "Vrishank"
-  surname: "Bhardwaj"
-  title: "USG Information Services"
-  thumbnailUrl: randz.jpg
+  name: "Shubhang"
+  surname: "Shukla"
+  title: "USG Administration"
+  thumbnailUrl: shubhang.jpg
+  description: "The undisputed quizzing champion of IIT Guwahati, Shubhang is not someone you'd want to challenge when it comes to knowing facts and figures. He also has a strange urge to genetically modify stuff. His keen interest in football is reflected in the way he idolises Lionel Messi and thoroughly enjoys classic rock and Led Zeppelin. There's definitely so much more to him than what meets the eye. Above all, the quality one would admire the most is how he'll always go out of his way to help someone. "
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -76,6 +84,7 @@
   surname: "Agarwal"
   title: "USG International Press"
   thumbnailUrl: tejpal.jpg
+  description: ""
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -85,60 +94,67 @@
   surname: "Balhara"
   title: "USG Social and Economic Affairs"
   thumbnailUrl: pedo.jpg
+  description: "Vijayant, the astronomy wizard of our college, is quite the ladies man. You're sure to be at the edge of your seats when this one strums a guitar. He's really one to stand out in a crowd (given how tall he is, of course). A self-proclaimed weirdo, Vijayant plays a wide spectrum of sports skilfully, football and tennis for starters. Also, he has a black belt in Karate so you kinda don't want to mess with him."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 11
-  name: "Shubhang"
-  surname: "Shukla"
-  title: "USG Administration"
-  thumbnailUrl: shubhang.jpg
+  name: "Shwetank"
+  surname: "Panwar"
+  title: "USG Economic and Social Affairs"
+  thumbnailUrl: shwetank.jpg
+  description: "A tech and robotics geek, Shwetank is an exemplary engineer. Brilliant with the keyboard, whether it's writing insightful articles or running hefty algorithms. His profound grasp of world politics makes him an invaluable part of our team. However, he is not all computer and codes. He’s a voracious Sci-Fi reader and has a taste for thrillers, especially with plots centered around narcotics. When stumbled onto doors leading to ingenious agendae, he's the one who knocks."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 12
-  name: "Sanchit"
-  surname: "J"
-  title: "Deputy Secretary General"
-  thumbnailUrl: sanchit.jpg
+  name: "Sangam"
+  surname: "Sharma"
+  title: "USG Delegate Affairs"
+  thumbnailUrl: sangam.jpg
+  description: "The team's newbie, Sangam's surprisingly extensive research with agendae has been enriching to the discussions that followed. Lazier than you could ever be, his devil-may-care attitude makes him an accidental clown. With a newfound zeal to explore himself, he involves himself in whatever opportunity pops up. The typical cricket fan, he also takes a lot of interest in biking."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 13
-  name: "Shwetank"
-  surname: "Panwar"
-  title: "USG Economic and Social Affairs"
-  thumbnailUrl: shwetank.jpg
+  name: "Sujal"
+  surname: "Ranjan"
+  title: "USG Infrastructure"
+  thumbnailUrl: sujal.jpg
+  description: "A new yet valuable addition to the team, Sujal is the guy for every job. Whether it’s research for the agendae or strategic extensive branding. Seemingly a bit naive at first glance, he has a vast  experience as an administrator. His dedication towards fulfilling every task thrown at him is unparalleled. An avid cricket and anime fan, he has a good hand with the ball (no pun intended)."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 14
-  name: "Sujal"
-  surname: "Ranjan"
-  title: "USG Infrastructure"
-  thumbnailUrl: sujal.jpg
+  name: "Prasanna"
+  surname: "V"
+  title: "USG Delegate Affairs"
+  thumbnailUrl: prasanna.jpg
+  description: ""
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 15
-  name: "Sangam"
-  surname: "Sharma"
-  title: "USG Delegate Affairs"
-  thumbnailUrl: sangam.jpg
+  name: "Vrishank"
+  surname: "Bhardwaj"
+  title: "USG Information Services"
+  thumbnailUrl: randz.jpg
+  description: "A god in machine learning and the proudest Delhite, Vrishank (Bro) is a part of the Webops team, and is a surprisingly eccentric person who loves to procrastinate. His puns aren't punny at all so one should steer clear of him in social gatherings to avoid mental trauma. His best talents include swimming, coding and eating a lot of food. He likes reading a lot and has a peculiar interest in the suez canal .Generosity and politeness make up for his lack of humour."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
 - 
   id: 16
-  name: "Prasanna"
-  surname: "V"
-  title: "USG Delegate Affairs"
-  thumbnailUrl: prasanna.jpg
+  name: "Vedant"
+  surname: "C"
+  title: "USG Information Services"
+  thumbnailUrl: god.jpg
+  description: "A programming genius, Vedant “the Nice guy” Chakravadhanula a.k.a. “VC” is a part of the Webops team of the IITG MUN, and is probably the most humble person you’ll ever meet. He has an amazing sense of humour which entices both men and women. Speaking of women, Vedant has a lot of them apparently. Vedant has a striking resemblance to the legendary musician, Snoop Dogg, physically and they share the same passions too. Despite of that the team would be incomplete without him. Vedant likes going an extra mile everyday, especially on Wednesdays."
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -148,6 +164,7 @@
   surname: "Vimania"
   title: "USG Creative Content"
   thumbnailUrl: prerna.jpg
+  description: "You wouldn't want to miss out on a dance performance when Prerna is heading the show. Her paintings and artwork  are a feast to the eyes which is clearly reflected in the posters we share. In stark contrast, she is also a champ on the volleyball field. Prerna, an aspiring designer, is sure to be the one to light up the room with her warm fuzzy sense of humour. "
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -157,6 +174,26 @@
   surname: "Pegu"
   title: "USG Creative Content"
   thumbnailUrl: deepshikha.jpg
+  description: ""
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 19
+  name: "Chetan"
+  surname: "Manda"
+  title: "USG Creative Content"
+  thumbnailUrl: manda.jpg
+  team: true
+  ribbon:
+   - {abbr: "GDG", title: "Google Developer Group"}
+- 
+  id: 20
+  name: "Nawaz"
+  surname: "Hassan"
+  title: "USG Creative Content"
+  thumbnailUrl: nawaz.jpg
+  description: "An imaginative introvert, Nawaz is a vital member of the UI/UX team. Striving to be an UX designer, his inventiveness as the same is prominent in his work, especially in designing our website. A fierce football fan, you can bet it all on him to headshot you in Counter Strike. Cats serve as his daily supplement of cuteness and he is fanatic about bikes. He loves Bikes. He really loves Bikes."
+  team: true
+  ribbon:
+   - {abbr: "GDG", title: "Google Developer Group"}
