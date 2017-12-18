@@ -183,7 +183,7 @@
   name: "Chetan"
   surname: "Manda"
   title: "USG Creative Content"
-  thumbnailUrl: manda.jpg
+  thumbnailUrl: manda.png
   team: true
   ribbon:
    - {abbr: "GDG", title: "Google Developer Group"}
@@ -192,7 +192,7 @@
   name: "Nawaz"
   surname: "Hassan"
   title: "USG Creative Content"
-  thumbnailUrl: nawaz.jpg
+  thumbnailUrl: nawaz.png
   description: "An imaginative introvert, Nawaz is a vital member of the UI/UX team. Striving to be an UX designer, his inventiveness as the same is prominent in his work, especially in designing our website. A fierce football fan, you can bet it all on him to headshot you in Counter Strike. Cats serve as his daily supplement of cuteness and he is fanatic about bikes. He loves Bikes. He really loves Bikes."
   team: true
   ribbon:
